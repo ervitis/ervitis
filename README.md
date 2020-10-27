@@ -2,9 +2,11 @@
 
 Software Engineer & Software Architect & DevOps
 
-![languages](https://raw.githubusercontent.com/ervitis/ervitis/master/languages.png)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ervitis&langs_count=8)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ervitis)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ervitis)
 
 Currently working at X by Orange. The cloud telco for small businesses.
 
