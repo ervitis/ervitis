@@ -14,11 +14,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: ervitis/github-profile-summary-cards-v2@release
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+        run: npm run run ${USERNAME} --theme solarized_dark
       - run: find ./profile-summary-card-output -mindepth 1 -name ${CARD_FOLDER} -prune -o -exec rm -rf {} \;
         env:
           CARD_FOLDER: solarized_dark
