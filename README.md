@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Software Engineer & Software Architect & DevOps
+Software Engineer & Software Architect & DevOps.
+
+Currently, working at X by Orange. The cloud telco for small businesses.
+
+Love cooking, crossfit and craft beer.
 
 ![ProfileDetails](https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 ![ReposPerLanguage](https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
@@ -8,7 +12,3 @@ Software Engineer & Software Architect & DevOps
 ![Stats](https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/3-stats.svg)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ervitis)
-
-Currently, working at X by Orange. The cloud telco for small businesses.
-
-Love cooking, crossfit and craft beer.
