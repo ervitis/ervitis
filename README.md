@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-Software Engineer & Software Architect & DevOps.
+Software Engineer & Software Architect & DevOps :heart:
+
 Currently, working at X by Orange. The cloud telco for small businesses.
 
 Love cooking, crossfit and craft beer. My first computer was an AMSTRAD:
+
 ![AMSTRAD](https://i.blogs.es/62f65c/amstradpcw1/450_1000.jpg)
 
 Then I had an IBM Pentium 486DX2 with 20Mb of RAM!!
@@ -12,6 +14,8 @@ I began with PHP5, then Python2.5, Java, PHP again with some frameworks like Sil
 I have used a lot of CI/CD tools like Jenkins, Travis, Circle, GoCD and Gitlab CI. Also, I have used Ansible, Terraform (little), Packer, Vagrant and Docker for building and hardening images and upload them into our AWS infrastructure.
 My favourite IDE is any product from Jetbrains.
 I think Git saved and is saving a lot of work, and I love working with it.
+
+![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=red)
 
 I'm still playing video games in my [megadrive](https://retrokai.store/43-large_default/sega-mega-drive-2-euusjap.jpg).
 
