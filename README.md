@@ -2,7 +2,7 @@
 
 Software Engineer & Software Architect & DevOps :heart:
 
-Currently, working at X by Orange. The cloud telco for small businesses.
+Currently, working at HRBrain.
 
 Love cooking, crossfit and craft beer. My first computer was an AMSTRAD:
 
