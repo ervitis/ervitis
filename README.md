@@ -2,7 +2,7 @@
 
 Software Engineer & Software Architect & DevOps :heart:
 
-Currently, working at HRBrain.
+Currently, working at Mercari.
 
 Love cooking, crossfit and craft beer. My first computer was an AMSTRAD:
 
