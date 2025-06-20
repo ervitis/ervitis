@@ -42,10 +42,6 @@
   <img src="https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/4-productive-time.svg" alt="Commits" width="45%">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ervitis" alt="Trophies">
-</p>
-
 ---
 
 <p align="center">
