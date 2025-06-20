@@ -21,7 +21,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_SECRET }}
         with:
           USERNAME: ${{ github.repository_owner }}
-      - run: find ./profile-summary-card-output -mindepth 1 -name ${CARD_FOLDER} -prune -o -exec rm -rf {} \;
-        env:
-          CARD_FOLDER: solarized_dark
-        continue-on-error: true
+      
