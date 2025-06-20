@@ -45,9 +45,6 @@
 
 ---
 
-### 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/víctor-m-89510995)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ervitis&color=red" alt="Profile Views">
 </p>
