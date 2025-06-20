@@ -52,4 +52,3 @@
   <img src="https://komarev.com/ghpvc/?username=ervitis&color=red" alt="Profile Views">
 </p>
 
-[Trophies](https://github-profile-trophy.vercel.app/?username=ervitis)
