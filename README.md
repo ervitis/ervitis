@@ -30,10 +30,23 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details">
-  <img src="https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" alt="Repos Per Language">
-  <img src="https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Most Commit Language">
-  <img src="https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Stats">
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" alt="Repos Per Language" width="45%">
+  <img src="https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Most Commit Language" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ervitis/ervitis/master/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Stats" width="45%">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ervitis&theme=radical&hide_border=true" alt="Contribution Streak" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ervitis" alt="Trophies">
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ervitis&theme=radical&hide_border=true" alt="Contribution Streak">
