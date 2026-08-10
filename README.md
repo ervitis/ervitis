@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ervitis&theme=nord" alt="Trophies">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ervitis&theme=nord" alt="Trophies">
 </p>
 
 ---
