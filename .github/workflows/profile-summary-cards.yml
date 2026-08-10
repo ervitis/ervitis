@@ -15,10 +15,9 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release 
+      - uses: actions/checkout@v7
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_SECRET }}
         with:
           USERNAME: ${{ github.repository_owner }}
-      
