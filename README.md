@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ervitis" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ervitis&theme=nord" alt="Trophies">
 </p>
 
 ---
@@ -57,4 +57,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ervitis&color=red" alt="Profile Views">
 </p>
-
